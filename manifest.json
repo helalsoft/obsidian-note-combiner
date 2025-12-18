@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-note-combiner",
+	"name": "Note Combiner",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Combines all markdown files in a folder into a single note.",
+	"author": "Helalsoft",
+	"authorUrl": "https://github.com/helalsoft/obsidian-note-combiner",
+	"isDesktopOnly": true
+}
